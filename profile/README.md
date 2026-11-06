@@ -18,6 +18,8 @@
 
 Auf dieser Seite findest du die offiziellen Präsentationen aller Produkte. Gekauft und lizenziert wird ausschließlich im **[INSPECT Shop](https://shop.inspect.wtf)**.
 
+> 🇬🇧 **English:** SecuroX Inspect (Germany) builds anticheat and server protection for gaming communities, FiveM scripts, Discord bots, APIs and automation. All products are sold exclusively at [shop.inspect.wtf](https://shop.inspect.wtf).
+
 <table>
   <tr>
     <td width="25%" valign="top" align="center"><b>🇩🇪 Made in Germany</b><br><sub>Entwicklung &amp; Support aus einer Hand</sub></td>
