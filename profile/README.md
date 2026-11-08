@@ -114,6 +114,12 @@ Auf dieser Seite findest du die offiziellen Präsentationen aller Produkte. Geka
 |:--|:--|--:|
 | **[Fahrzeug-Studio](https://github.com/securox-inspect/fahrzeug-studio)** | Alle Funktionen des INSPECT Fahrzeug-Studios ohne Einschränkung – für beliebig viele Fahrzeuge, Props … | [ab 4,99 €](https://shop.inspect.wtf/fahrzeug-studio) |
 
+### FiveM job
+
+| Produkt | Beschreibung | Preis |
+|:--|:--|--:|
+| **[INSPECT Police – Komplettes Polizeisystem mit MDT, Leitstelle, Haft, Bußgeldstelle und Kriminaltechnik](https://github.com/securox-inspect/inspect-police)** | Das komplette Polizeisystem für deinen Server: Dienst-Tablet mit Akten und Abfragen, Leitstelle mit … | [99,99 €](https://shop.inspect.wtf/produkt/inspect-police) |
+
 ## Individuelle Entwicklung
 
 Du brauchst ein eigenes System, einen Bot oder eine Anbindung an deinen Server? Wir entwickeln passend zu deinem Framework und deinen Abläufen – sprich uns im **[INSPECT Discord](https://discord.gg/inspect)** an oder schreib an **[info@inspect.wtf](mailto:info@inspect.wtf)**.
