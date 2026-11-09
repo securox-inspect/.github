@@ -114,6 +114,12 @@ Auf dieser Seite findest du die offiziellen Präsentationen aller Produkte. Geka
 |:--|:--|--:|
 | **[Fahrzeug-Studio](https://github.com/securox-inspect/fahrzeug-studio)** | Alle Funktionen des INSPECT Fahrzeug-Studios ohne Einschränkung – für beliebig viele Fahrzeuge, Props … | [ab 4,99 €](https://shop.inspect.wtf/fahrzeug-studio) |
 
+### FiveM Job
+
+| Produkt | Beschreibung | Preis |
+|:--|:--|--:|
+| **[INSPECT Jobcreator – Jobs, Ränge, Bossmenü, Teleporter und Fesseln komplett im Spiel verwalten](https://github.com/securox-inspect/inspect-jobcreator)** | Die komplette Job- und Fraktionsverwaltung für deinen Server: Jobs, Ränge und Rechte im Adminboard … | [29,99 €](https://shop.inspect.wtf/produkt/inspect-jobcreator) |
+
 ### FiveM job
 
 | Produkt | Beschreibung | Preis |
