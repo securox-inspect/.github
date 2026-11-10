@@ -33,16 +33,16 @@ Auf dieser Seite findest du die offiziellen Präsentationen aller Produkte. Geka
 
 <table>
   <tr>
-    <td width="50%" valign="top"><a href="https://github.com/securox-inspect/fahrzeug-studio"><img src="https://raw.githubusercontent.com/securox-inspect/fahrzeug-studio/main/assets/showcase/bild-1.png" alt="Fahrzeug-Studio" width="100%"></a><br><b><a href="https://github.com/securox-inspect/fahrzeug-studio">Fahrzeug-Studio</a></b><br><sub>Alle Funktionen des INSPECT Fahrzeug-Studios ohne Einschränkung – für beliebig viele Fahrzeuge, Props und Ressourcen.</sub><br><br><b>ab 4,99 €</b> &nbsp;·&nbsp; <a href="https://shop.inspect.wtf/fahrzeug-studio">Im Shop ansehen →</a></td>
+    <td width="50%" valign="top"><a href="https://github.com/securox-inspect/fahrzeug-studio-einzelbearbeitung"><img src="https://raw.githubusercontent.com/securox-inspect/fahrzeug-studio-einzelbearbeitung/main/assets/showcase/bild-1.png" alt="Fahrzeug-Studio – Einzelbearbeitung" width="100%"></a><br><b><a href="https://github.com/securox-inspect/fahrzeug-studio-einzelbearbeitung">Fahrzeug-Studio – Einzelbearbeitung</a></b><br><sub>Eine Datei im INSPECT Fahrzeug-Studio bearbeiten und speichern – ideal, wenn du nur ein Fahrzeug anpassen willst.</sub><br><br><b>4,99 €</b> &nbsp;·&nbsp; <a href="https://shop.inspect.wtf/produkt/fahrzeug-studio-einzelbearbeitung">Im Shop ansehen →</a></td>
+    <td width="50%" valign="top"><a href="https://github.com/securox-inspect/fahrzeug-studio-komplett-pass"><img src="https://raw.githubusercontent.com/securox-inspect/fahrzeug-studio-komplett-pass/main/assets/showcase/bild-1.png" alt="Fahrzeug-Studio – Komplett-Pass" width="100%"></a><br><b><a href="https://github.com/securox-inspect/fahrzeug-studio-komplett-pass">Fahrzeug-Studio – Komplett-Pass</a></b><br><sub>Alle Funktionen des INSPECT Fahrzeug-Studios ohne Einschränkung – für beliebig viele Fahrzeuge, Props und Ressourcen.</sub><br><br><b>ab 35,00 €</b> &nbsp;·&nbsp; <a href="https://shop.inspect.wtf/produkt/fahrzeug-studio-komplett-pass">Im Shop ansehen →</a></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/securox-inspect/fahrzeug-studio-optimierer-pass"><img src="https://raw.githubusercontent.com/securox-inspect/fahrzeug-studio-optimierer-pass/main/assets/showcase/bild-1.png" alt="Fahrzeug-Studio – Optimierer-Pass" width="100%"></a><br><b><a href="https://github.com/securox-inspect/fahrzeug-studio-optimierer-pass">Fahrzeug-Studio – Optimierer-Pass</a></b><br><sub>FiveM-Fahrzeuge, MLOs und Props automatisch unter 16 MiB bringen – ganze ZIPs in einem Durchgang.</sub><br><br><b>ab 20,00 €</b> &nbsp;·&nbsp; <a href="https://shop.inspect.wtf/produkt/fahrzeug-studio-optimierer-pass">Im Shop ansehen →</a></td>
     <td width="50%" valign="top"><a href="https://github.com/securox-inspect/individuelle-botsysteme"><img src="https://raw.githubusercontent.com/securox-inspect/individuelle-botsysteme/main/assets/showcase/bild-1.png" alt="Individuelle Botsysteme &amp; Automatisierung" width="100%"></a><br><b><a href="https://github.com/securox-inspect/individuelle-botsysteme">Individuelle Botsysteme &amp; Automatisierung</a></b><br><sub>Individuelle Bots, Automatisierungen und maßgeschneiderte Systemlösungen für Unternehmen, Teams und …</sub><br><br><b>ab 299,99 €</b> &nbsp;·&nbsp; <a href="https://shop.inspect.wtf/produkt/individuelle-botsysteme">Im Shop ansehen →</a></td>
   </tr>
   <tr>
     <td width="50%" valign="top"><a href="https://github.com/securox-inspect/individuelle-discord-bot-erstellung"><img src="https://raw.githubusercontent.com/securox-inspect/individuelle-discord-bot-erstellung/main/assets/showcase/bild-1.png" alt="Individuelle Discord Bot Erstellung" width="100%"></a><br><b><a href="https://github.com/securox-inspect/individuelle-discord-bot-erstellung">Individuelle Discord Bot Erstellung</a></b><br><sub>Individuelle Discord-Bots nach Kundenwunsch – von einfachen Automationen bis zu komplexen Verwaltungssystemen.</sub><br><br><b>ab 149,99 €</b> &nbsp;·&nbsp; <a href="https://shop.inspect.wtf/produkt/individuelle-discord-bot-erstellung">Im Shop ansehen →</a></td>
     <td width="50%" valign="top"><a href="https://github.com/securox-inspect/inspect-api"><img src="https://raw.githubusercontent.com/securox-inspect/inspect-api/main/assets/showcase/bild-1.png" alt="INSPECT API Zugang" width="100%"></a><br><b><a href="https://github.com/securox-inspect/inspect-api">INSPECT API Zugang</a></b><br><sub>Direkter API-Zugang zur INSPECT-Datenbasis für FiveM, Discord-Bots und eigene Anwendungen.</sub><br><br><b>ab 9,95 €</b> &nbsp;·&nbsp; <a href="https://shop.inspect.wtf/produkt/inspect-api">Im Shop ansehen →</a></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><a href="https://github.com/securox-inspect/inspect-discord-bot-community-management"><img src="https://raw.githubusercontent.com/securox-inspect/inspect-discord-bot-community-management/main/assets/showcase/bild-1.png" alt="INSPECT Discord Bot – Community Management Edition Open Source" width="100%"></a><br><b><a href="https://github.com/securox-inspect/inspect-discord-bot-community-management">INSPECT Discord Bot – Community Management Edition Open Source</a></b><br><sub>Professioneller Discord-All-in-One-Bot mit 11 Ticketkategorien, Voice-Support, Whitelist, Moderation, Logs, Umfragen …</sub><br><br><b>ab 299,99 €</b> &nbsp;·&nbsp; <a href="https://shop.inspect.wtf/produkt/inspect-discord-bot-community-management">Im Shop ansehen →</a></td>
-    <td width="50%" valign="top"><a href="https://github.com/securox-inspect/inspect-entityguard"><img src="https://raw.githubusercontent.com/securox-inspect/inspect-entityguard/main/assets/showcase/bild-1.png" alt="INSPECT EntityGuard" width="100%"></a><br><b><a href="https://github.com/securox-inspect/inspect-entityguard">INSPECT EntityGuard</a></b><br><sub>Professionelles Schutzsystem für FiveM-Server gegen unerlaubte Entity-Spawns, Noclip, Freecam und weitere …</sub><br><br><b>69,99 €</b> &nbsp;·&nbsp; <a href="https://shop.inspect.wtf/produkt/inspect-entityguard">Im Shop ansehen →</a></td>
   </tr>
 </table>
 
@@ -67,6 +67,20 @@ Auf dieser Seite findest du die offiziellen Präsentationen aller Produkte. Geka
 | **[Inspect SOS-Funk Mechaniker für FiveM](https://github.com/securox-inspect/inspect-sos-funk-mechaniker)** | Frameworkübergreifende KI-Pannenhilfe mit automatischer Framework- und Inventar-Erkennung … | [14,99 €](https://shop.inspect.wtf/produkt/inspect-sos-funk-mechaniker) |
 | **[INSPECT Survival Journal für FiveM](https://github.com/securox-inspect/inspect-survival-journal)** | Handgeschriebenes Survival-Tagebuch als Item mit Lore und Tipps für neue Spieler, eigenen Notizen … | [19,99 €](https://shop.inspect.wtf/produkt/inspect-survival-journal) |
 | **[INSPECT Weapon Tints – Waffenfarben](https://github.com/securox-inspect/inspect-weapon-tints)** | Waffenfarben, MK2-Camos und Luxury-Finishes als echte Items – dauerhaft pro Waffen-Seriennummer … | [9,99 €](https://shop.inspect.wtf/produkt/inspect-weapon-tints) |
+
+### Fahrzeug-Studio
+
+| Produkt | Beschreibung | Preis |
+|:--|:--|--:|
+| **[Fahrzeug-Studio – 3D-Modell-Pass](https://github.com/securox-inspect/fahrzeug-studio-3d-modell-pass)** | FiveM-Fahrzeugmodelle (.yft) in 3D bearbeiten: Teile und Logos am Modell ausblenden, _hi.yft … | [ab 20,00 €](https://shop.inspect.wtf/produkt/fahrzeug-studio-3d-modell-pass) |
+| **[Fahrzeug-Studio – Custom-Prop-Pass](https://github.com/securox-inspect/fahrzeug-studio-custom-prop-pass)** | Eigene Props aus Spawnname und PNG-Design bauen – als Custom- oder Replace-Ressource, sofort performant. | [ab 20,00 €](https://shop.inspect.wtf/produkt/fahrzeug-studio-custom-prop-pass) |
+| **[Fahrzeug-Studio – Einzelbearbeitung](https://github.com/securox-inspect/fahrzeug-studio-einzelbearbeitung)** | Eine Datei im INSPECT Fahrzeug-Studio bearbeiten und speichern – ideal, wenn du nur ein Fahrzeug … | [4,99 €](https://shop.inspect.wtf/produkt/fahrzeug-studio-einzelbearbeitung) |
+| **[Fahrzeug-Studio – Komplett-Pass](https://github.com/securox-inspect/fahrzeug-studio-komplett-pass)** | Alle Funktionen des INSPECT Fahrzeug-Studios ohne Einschränkung – für beliebig viele Fahrzeuge, Props … | [ab 35,00 €](https://shop.inspect.wtf/produkt/fahrzeug-studio-komplett-pass) |
+| **[Fahrzeug-Studio – Optimierer-Pass](https://github.com/securox-inspect/fahrzeug-studio-optimierer-pass)** | FiveM-Fahrzeuge, MLOs und Props automatisch unter 16 MiB bringen – ganze ZIPs in einem Durchgang. | [ab 20,00 €](https://shop.inspect.wtf/produkt/fahrzeug-studio-optimierer-pass) |
+| **[Fahrzeug-Studio – Ressourcen-Baukasten-Pass](https://github.com/securox-inspect/fahrzeug-studio-ressourcen-pass)** | Kleidungs-Ressourcen und Schilder aus PNG als fertige, startbereite FiveM-Ressource bauen. | [ab 20,00 €](https://shop.inspect.wtf/produkt/fahrzeug-studio-ressourcen-pass) |
+| **[Fahrzeug-Studio – Textur-Editor-Pass](https://github.com/securox-inspect/fahrzeug-studio-textur-editor-pass)** | Texturen von FiveM-Fahrzeugen bearbeiten: .ytd öffnen, Logos entfernen, Liveries, Bilder und … | [ab 20,00 €](https://shop.inspect.wtf/produkt/fahrzeug-studio-textur-editor-pass) |
+| **[Fahrzeug-Studio – Verschlüsselungs-Pass](https://github.com/securox-inspect/fahrzeug-studio-verschluesselung-pass)** | FiveM-Lua-Scripts verschlüsseln – maximale Sicherheit, bleibt für FiveM lesbar. | [ab 25,00 €](https://shop.inspect.wtf/produkt/fahrzeug-studio-verschluesselung-pass) |
+| **[Fahrzeug-Studio – Vinewood-Ressource mit deinem Logo](https://github.com/securox-inspect/fahrzeug-studio-vinewood-ressource)** | Keine eigene Schild-Ressource? Die fertige INSPECT Vinewood-Ressource – das Studio setzt dein Logo ein … | [9,99 €](https://shop.inspect.wtf/produkt/fahrzeug-studio-vinewood-ressource) |
 
 ### Botsysteme
 
@@ -107,12 +121,6 @@ Auf dieser Seite findest du die offiziellen Präsentationen aller Produkte. Geka
 |:--|:--|--:|
 | **[Professioneller Webseitenbau](https://github.com/securox-inspect/professioneller-webseitenbau)** | Moderne Webseiten und Onlineshops für Unternehmen, Dienstleister und Shopbetreiber – individuell nach Wunsch. | [ab 1.999,99 €](https://shop.inspect.wtf/produkt/professioneller-webseitenbau) |
 | **[Webseiten für Vereine & Gameserver](https://github.com/securox-inspect/vereine-gameserver-webseite)** | Moderner Internetauftritt für Vereine, Communities und Gameserver – individuell, responsive … | [ab 499,99 €](https://shop.inspect.wtf/produkt/vereine-gameserver-webseite) |
-
-### Fahrzeug-Studio
-
-| Produkt | Beschreibung | Preis |
-|:--|:--|--:|
-| **[Fahrzeug-Studio](https://github.com/securox-inspect/fahrzeug-studio)** | Alle Funktionen des INSPECT Fahrzeug-Studios ohne Einschränkung – für beliebig viele Fahrzeuge, Props … | [ab 4,99 €](https://shop.inspect.wtf/fahrzeug-studio) |
 
 ### FiveM Job
 
